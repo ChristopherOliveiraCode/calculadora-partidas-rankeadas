@@ -20,7 +20,7 @@ function calcularSaldo(vitorias, derrotas){
     }else if(saldo >= 71 && saldo <= 80){
         nivel = "Imortal"
     }else{
-        nivel = Radiante}
+        nivel = "Radiante"}
 
         console.log("O Herói tem saldo de vitórias de " + saldo + " e está no nível de " + nivel)
 }
